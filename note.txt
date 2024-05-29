@@ -1,0 +1,6 @@
+// instaed of using the hostname for individual images url just use the ** as the hostname
+// {
+//   protocol: "https",
+//   hostname: "**", means you accept image from all domain
+
+// },
